@@ -37,7 +37,7 @@
     "google-closure-library": "^20210302.0.0"
   },
   "dependencies": {
-    "minimatch": "^3.0.4",
+    "minimatch": "^10.2.2",
     "yargs": "^16.2.0"
   }
 }
